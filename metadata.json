@@ -1,0 +1,8 @@
+{
+  "name": "GreatX AI",
+  "description": "A powerful AI assistant with multilingual support, image generation, and persistent chat memory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
